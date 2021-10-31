@@ -1,10 +1,7 @@
-#include <Wire.h>
-
-
 int BatteryCurrent = A0;
 int SupplyVoltage = A1;
 int BatteryVoltage = A2;
-int LightSensor = A9;
+int LightSensor = A3; //change back to A9
 
 
 
